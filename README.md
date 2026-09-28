@@ -37,7 +37,7 @@ Langkah-langkah:
 
 ## Pengujian
 
-| Test Case |   a |   d |  n | Hasil Deret     | Jumlah |
+| Test Case |   a |   d |  n | Suku     | Jumlah |
 | --------- | --: | --: | -: | --------------- | -----: |
 | 1         |   2 |   3 |  5 | 2, 5, 8, 11, 14 |  40.00 |
 | 2         |  10 |  -2 |  4 | 10, 8, 6, 4     |  28.00 |
